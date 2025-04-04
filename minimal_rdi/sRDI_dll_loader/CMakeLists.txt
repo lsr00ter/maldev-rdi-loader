@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.30)
-project(sRDI_loader C)
+project(sRDI_loader src/c)
 
 set(CMAKE_C_STANDARD 17)
 set(MASM_NAMES src/masm/peb)
